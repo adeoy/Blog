@@ -11,9 +11,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="522" y="123" width="865" height="912" key="CommitChangelistDialog2" timestamp="1587308417945">
+    <state x="522" y="123" width="865" height="912" key="CommitChangelistDialog2" timestamp="1587308427353">
       <screen x="0" y="40" width="1920" height="1080" />
     </state>
-    <state x="522" y="123" width="865" height="912" key="CommitChangelistDialog2/1920.0.1920.1080/0.40.1920.1080@0.40.1920.1080" timestamp="1587308417945" />
+    <state x="522" y="123" width="865" height="912" key="CommitChangelistDialog2/1920.0.1920.1080/0.40.1920.1080@0.40.1920.1080" timestamp="1587308427353" />
+    <state x="555" y="315" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1587308430446">
+      <screen x="0" y="40" width="1920" height="1080" />
+    </state>
+    <state x="555" y="315" width="800" height="528" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.40.1920.1080@0.40.1920.1080" timestamp="1587308430446" />
   </component>
 </project>
