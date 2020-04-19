@@ -29,8 +29,8 @@ def without_cookies():
     print(f'Token para acceso a Twitter: {authenticity_token}')
 
     url_login_post = 'https://mobile.twitter.com/sessions' # URL que dispará Twitter al presionar el botón de "Login"
-    email = 'eecuart4@gmail.com'  # Tu email o usuario de Twitter.
-    password = 'E48863e4e#'  # Tu contraseña de Twitter
+    email = 'TU_EMAIL'  # Tu email o usuario de Twitter.
+    password = 'TU_PASSWORD'  # Tu contraseña de Twitter
     # FormData enviado por a través de POST para efectuar el acceso
     data = {
         'authenticity_token': authenticity_token,
@@ -109,6 +109,10 @@ def with_cookies():
         idx += 1
 
 
-if __name__ == '__main__':
+def main():
     without_cookies()
     # with_cookies()
+
+
+if __name__ == '__main__':
+    main()
